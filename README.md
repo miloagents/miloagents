@@ -22,11 +22,11 @@ Small, focused skill files you can drop into Claude Code, Codex or Cursor. Each 
 
 | Skill | Free edition |
 |---|---|
-| Niche Hook Miner | [aishifu-tools/niche-hook-miner](https://github.com/aishifu-tools/niche-hook-miner) |
-| YouTube Niche Validator | [aishifu-tools/youtube-niche-validator](https://github.com/aishifu-tools/youtube-niche-validator) |
-| TikTok Hook & Trend Engine | [aishifu-tools/tiktok-hook-trend-engine](https://github.com/aishifu-tools/tiktok-hook-trend-engine) |
-| Short-Form Video Script Writer | [aishifu-tools/short-form-video-script-writer](https://github.com/aishifu-tools/short-form-video-script-writer) |
-| Vertical Video Converter | [aishifu-tools/vertical-video-converter](https://github.com/aishifu-tools/vertical-video-converter) |
+| Niche Hook Miner | [miloagents/niche-hook-miner](https://github.com/miloagents/niche-hook-miner) |
+| YouTube Niche Validator | [miloagents/youtube-niche-validator](https://github.com/miloagents/youtube-niche-validator) |
+| TikTok Hook & Trend Engine | [miloagents/tiktok-hook-trend-engine](https://github.com/miloagents/tiktok-hook-trend-engine) |
+| Short-Form Video Script Writer | [miloagents/short-form-video-script-writer](https://github.com/miloagents/short-form-video-script-writer) |
+| Vertical Video Converter | [miloagents/vertical-video-converter](https://github.com/miloagents/vertical-video-converter) |
 
 Details for each skill: https://miloagents.shop/skills/
 
